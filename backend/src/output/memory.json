@@ -1,0 +1,683 @@
+{
+  "sessions": [
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "qualities": [
+              "curious",
+              "gentle",
+              "loves drawing",
+              "imaginative",
+              "brave to ask questions"
+            ],
+            "familyValue": "learning"
+          }
+        },
+        "chapters": [
+          {
+            "title": "Emma's Smile",
+            "summary": "Emma finds a painting with a gentle smile that makes her curious."
+          },
+          {
+            "title": "Mysterious Painting",
+            "summary": "She wonders who painted the smile and asks questions."
+          },
+          {
+            "title": "Sketching Secrets",
+            "summary": "Emma practices drawing smiles, noticing small details and shapes."
+          },
+          {
+            "title": "The Little Lesson",
+            "summary": "Grandma shows how artists learn by observing and trying again."
+          },
+          {
+            "title": "Family Studio",
+            "summary": "Emma, family, and friends paint together, sharing tips and laughter."
+          },
+          {
+            "title": "A Learning Smile",
+            "summary": "Emma smiles like the painting, proud of her curious, growing mind."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma, six, finds a painting with a gentle smile. Curious and brave, she draws, asks, and learns.",
+        "Emma, six, studies the mysterious painting. Who painted that gentle smile? She asks, pencil poised, eyes hopeful.",
+        "Emma sketches secret smiles, noticing tiny shapes and gentle shadows. She asks, learns, and keeps smiling.",
+        "Grandma showed Emma: watch, try again. Emma drew softly, curious and brave, learning each gentle stroke.",
+        "Emma paints with family and friends, bravely asking questions, sharing tips and giggling as colors warm the studio.",
+        "Emma, six, smiles like a painting\u2014gentle, curious, who loves drawing, brave to ask questions, proud of her growing mind."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "familyValue": "learning",
+            "qualities": [
+              "curious",
+              "playful",
+              "observant",
+              "loves drawing",
+              "brave"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "The Smiling Painting",
+            "summary": "Emma spots a mysterious painting whose smile seems to wiggle and whisper secrets."
+          },
+          {
+            "title": "A Winking Mystery",
+            "summary": "The painting winks! Emma tiptoes closer, chasing a giggle trapped behind the frame."
+          },
+          {
+            "title": "Splotches of Surprise",
+            "summary": "Paint splatters leap off canvas, turning marble statues into surprise-juggling museum friends."
+          },
+          {
+            "title": "Paintbrush Detective",
+            "summary": "Emma follows colorful footprints and smudged clues like a clever paintbrush detective."
+          },
+          {
+            "title": "Whispering Colors",
+            "summary": "Hues whisper about light, shadow, and why tiny changes make big smiles."
+          },
+          {
+            "title": "Emma's Curious Masterpiece",
+            "summary": "Emma paints her own smiling picture, sharing discoveries and joyful learning with family."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma tiptoed closer; the painting's smile wiggled and whispered, \"Draw me!\" Emma giggled, bravely sketching the secret.",
+        "Curious Emma tiptoes; the painted portrait winks, giggles, and a tiny painted bird peeks out\u2014Emma laughs, draws it.",
+        "Curious, playful, observant Emma bravely paints; splatters leap, turning marble statues into surprise-juggling museum friends.",
+        "Emma, six, the clever paintbrush detective, follows colorful footprints to a paint-splattered cat with her brush.",
+        "Emma, six, draws whispering colors; they joke about shadows. Curious and brave, she adds a tiny sun \u2014 everyone smiles.",
+        "Curious Emma painted a smiling self-portrait; her cat photobombed with painted whiskers\u2014family laughed, learned together."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "family_value": "learning",
+            "personality": [
+              "curious",
+              "playful",
+              "sketcher",
+              "puzzle-lover"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "The Smile in the Frame",
+            "summary": "Emma spies a mysterious smiling portrait that seems almost alive, sparking her endless questions."
+          },
+          {
+            "title": "Whispers Behind Canvas",
+            "summary": "A hidden note and a tiny drawer surprise Emma with clues and a silly riddle."
+          },
+          {
+            "title": "The Giggle Mechanism",
+            "summary": "Emma winds a secret gear; the painting giggles, winks, and a paper bird flies out."
+          },
+          {
+            "title": "Map of Hidden Smiles",
+            "summary": "A crinkled map leads Emma through museum puzzles, teaching observation, patience, and more."
+          },
+          {
+            "title": "Emma's Mona Mix-up",
+            "summary": "Emma paints her own playful version; faces swap, colors sing, and everyone laughs."
+          },
+          {
+            "title": "Museum of Little Learners",
+            "summary": "Emma shares discoveries with family; curiosity becomes the most treasured painting of all."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma poked the smiling portrait; it winked back, spilling giggles and a tiny sketchbook full of secret maps.",
+        "Emma, six, curious sketcher who loves learning and puzzles, opens a tiny drawer; hidden note contains a silly riddle.",
+        "The Giggle Mechanism: Curious Emma winds a gear; the painting giggles, winks, and a paper bird flies into her sketchbook.",
+        "Emma unfolded a crinkled map; museum puzzles winked. She sketched hidden smiles, learning patience and wonder.",
+        "Emma's Mona Mix-up: curious six-year-old Emma paints swapped faces, colors sing, she giggles, everyone learns and laughs.",
+        "Emma, six, taped tiny sketches and solved puzzle clues in the family museum; the curiosity painting winked, everyone laughed."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": [
+            "curious",
+            "kind"
+          ]
+        },
+        "chapters": [
+          {
+            "title": "Adventure 1",
+            "summary": "Emma learns about learning."
+          },
+          {
+            "title": "Adventure 2",
+            "summary": "Emma learns about learning."
+          },
+          {
+            "title": "Adventure 3",
+            "summary": "Emma learns about learning."
+          },
+          {
+            "title": "Adventure 4",
+            "summary": "Emma learns about learning."
+          },
+          {
+            "title": "Adventure 5",
+            "summary": "Emma learns about learning."
+          },
+          {
+            "title": "Adventure 6",
+            "summary": "Emma learns about learning."
+          }
+        ]
+      },
+      "chapters": [
+        "Adventure 1: Emma learns about learning.",
+        "Adventure 2: Emma learns about learning.",
+        "Adventure 3: Emma learns about learning.",
+        "Adventure 4: Emma learns about learning.",
+        "Adventure 5: Emma learns about learning.",
+        "Adventure 6: Emma learns about learning."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "family_value": "learning",
+            "personality": [
+              "curious",
+              "playful",
+              "observant",
+              "brave"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "The Smiling Painting",
+            "summary": "Emma finds Grandma's painting hiding a mysterious smile and can't stop asking questions."
+          },
+          {
+            "title": "Museum Giggle Quest",
+            "summary": "A field trip leads Emma to whispering frames, silly guards, and clues that tickle her curiosity."
+          },
+          {
+            "title": "Sneaky Sketch Adventure",
+            "summary": "Ink footsteps follow Emma; a mischievous sketch escapes its frame and plays hide-and-seek."
+          },
+          {
+            "title": "Paint Talks Back",
+            "summary": "A spilled paint blob tells jokes, teaches color mixing, and reveals a secret smile routine."
+          },
+          {
+            "title": "Frame Riddle Picnic",
+            "summary": "Emma and friends solve riddles at a picnic, finding painted clues on sandwiches and leaves."
+          },
+          {
+            "title": "Emma's Learning Smile",
+            "summary": "Emma paints her own smiling portrait, realizing curiosity and learning create magic for family."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma finds Grandma's portrait hiding a mysterious smile; curious Emma asks gentle questions, eyes wide, brave and playful.",
+        "On the field trip, frames whisper; silly guards giggle. Observant Emma follows warm clues that tickle curiosity.",
+        "Ink footsteps follow brave Emma; a mischievous sketch slips free, giggling, playing hide-and-seek among shadows.",
+        "A spilled paint blob talks; it jokes, teaches color-mixing, and demonstrates Grandma's secret smile routine.",
+        "At the picnic, riddles hang in frames; Emma and friends solve them, finding painted clues on sandwiches and leaves.",
+        "Emma paints her own smiling portrait, learning that curiosity and family learning weave gentle, brave magic."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "family_value": "learning",
+            "personality": [
+              "curious",
+              "playful",
+              "observant"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "The Curious Smile",
+            "summary": "Emma spots a mysterious smile inside an old painting at the museum."
+          },
+          {
+            "title": "Giggle in the Gallery",
+            "summary": "The portrait giggles, paintings wobble, and Emma wonders why."
+          },
+          {
+            "title": "Brushes Take Flight",
+            "summary": "Paintbrushes leap off shelves, painting playful clues across the hall."
+          },
+          {
+            "title": "Riddle of the Portrait",
+            "summary": "A whispered riddle leads Emma to ask clever questions and test ideas."
+          },
+          {
+            "title": "Smile's Secret Revealed",
+            "summary": "The smile hides a tiny map to a secret learning garden behind paint."
+          },
+          {
+            "title": "Curiosity Comes Home",
+            "summary": "Emma brings the painted smile home and starts experiments with family."
+          }
+        ]
+      },
+      "chapters": [
+        "At six, Emma finds a tiny mysterious smile hiding inside an old museum portrait.",
+        "The portrait giggles; paintings wobble together. Curious Emma tilts her head and giggles back.",
+        "Paintbrushes leap! They paint playful clues across the hall. Observant Emma follows each stroke.",
+        "A whisper says a riddle. Emma asks clever questions, tests ideas, scribbles joyful guesses.",
+        "At last the smile flutters open, revealing a tiny map to a secret learning garden.",
+        "Emma brings the painted smile home. Family and Emma plant, experiment, and learn together happily."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": [
+            "age 6",
+            "curious",
+            "playful",
+            "loves drawing",
+            "family value: learning"
+          ]
+        },
+        "chapters": [
+          {
+            "title": "The Smiling Painting",
+            "summary": "Emma finds a mysterious painting that seems to wink, sparking questions and giggles."
+          },
+          {
+            "title": "Clues on a Napkin",
+            "summary": "A napkin with doodles leads Emma on a museum chase for hidden smiles."
+          },
+          {
+            "title": "Silly Smile Detective",
+            "summary": "Emma interviews statues, scribbles notes, and asks silly questions to unlock the grin."
+          },
+          {
+            "title": "The Ticklish Paintbrush",
+            "summary": "A paintbrush sneezes color; the painting blinks and a tiny cat pops out."
+          },
+          {
+            "title": "Picnic of Surprises",
+            "summary": "Emma shares cookies; painted friends step out, teaching a funny drawing trick."
+          },
+          {
+            "title": "Smile Science at Home",
+            "summary": "Back home Emma experiments: practice, curiosity, and kindness make smiles shine."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma, six, curious and playful, finds a mysterious painting that winks. She giggles and draws its grin.",
+        "A doodled napkin becomes a map. Curious Emma chases hidden smiles through marble halls, whispering questions.",
+        "Playful Emma interviews statues, scribbles notes, asks silly questions. Statues blink? She learns and laughs.",
+        "A ticklish paintbrush sneezes color. The painting blinks, and a tiny painted cat pops out, mewling.",
+        "Emma shares cookies. Painted friends step out for a picnic, teaching her a funny drawing trick.",
+        "Back home, Emma practices smile science: drawing, curiosity, kindness. Family cheers\u2014learning makes every smile shine."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "family_value": "learning",
+            "personality": [
+              "curious",
+              "playful",
+              "brave",
+              "observant",
+              "inventive"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "Emma Meets the Smile",
+            "summary": "Emma discovers a tiny painted smile that follows her with curious giggles."
+          },
+          {
+            "title": "The Painting's Little Secret",
+            "summary": "A hidden note behind the frame challenges Emma with a riddle and a wink."
+          },
+          {
+            "title": "Museum Mischief",
+            "summary": "Emma sneaks the painting into the museum for clues; security guards hilariously distracted by pigeons."
+          },
+          {
+            "title": "Workshop of Wonders",
+            "summary": "Inspired by da Vinci doodles, Emma invents a wobbling sketch-boat that reveals a hidden map."
+          },
+          {
+            "title": "The Great Smile Chase",
+            "summary": "Paintings, pigeons, and a runaway easel lead to silly discoveries about observing and asking questions."
+          },
+          {
+            "title": "A Little Smile's Lesson",
+            "summary": "Emma learns learning lights curiosity; she paints her own smiling portrait to share knowledge."
+          }
+        ]
+      },
+      "chapters": [
+        "Six-year-old Emma finds a tiny painted smile that giggles and follows her, curious eyes wide, brave and playful.",
+        "A hidden note behind the frame winks a riddle; observant Emma squints, ready to ask.",
+        "Playful Emma sneaks the painting into the museum; pigeons distract guards hilariously while clues peek from portraits.",
+        "In a cozy workshop, da Vinci doodles inspire inventive Emma; she builds a wobbling sketch-boat revealing a secret map.",
+        "Paintings hop, pigeons whirl, a runaway easel zooms\u2014brave Emma chases giggling smile, observing, asking, finding silly discoveries.",
+        "Emma learns learning lights curiosity. She paints her own serene smiling portrait, sharing knowledge with a playful wink."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": [
+            "age: 6",
+            "curious",
+            "playful",
+            "brave",
+            "values learning",
+            "loves painting",
+            "asks lots of questions"
+          ]
+        },
+        "chapters": [
+          {
+            "title": "The Smiling Painting",
+            "summary": "Emma finds a winking painting in Grandma's attic and hears a tiny riddle whisper."
+          },
+          {
+            "title": "The Secret Wink",
+            "summary": "The painting winks; painted birds tumble out, giggle, and lead Emma toward a hidden color map."
+          },
+          {
+            "title": "Dancing Brushstrokes",
+            "summary": "Brushstrokes leap off canvas; swirling colors form a mischievous paint fox that teaches mixing."
+          },
+          {
+            "title": "Puzzle of the Smile",
+            "summary": "Emma solves clues about expression, asking Grandpa and neighbors, learning observation is a superpower."
+          },
+          {
+            "title": "Curiosity's Color Lesson",
+            "summary": "She experiments, spills glowing paint, discovers colors sing and that mistakes spark new ideas."
+          },
+          {
+            "title": "Emma's Masterpiece",
+            "summary": "Emma paints a smiling masterpiece combining surprises; family gathers, applauds curiosity and shared learning."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma, six, finds a winking painting in Grandma's attic. She asks, \"Who winked?\" A tiny riddle whispers.",
+        "The painting winks again; painted birds tumble out giggling. Emma asks, \"Where's the color map?\" Brave, playful.",
+        "Brushstrokes leap off canvas. Swirling colors make a mischievous paint fox. Emma laughs, asks, \"How do you mix?\"",
+        "Clues about the painting's smile lead Emma to Grandpa and neighbors. She asks many questions, learns observation is superpower.",
+        "Emma experiments boldly. She spills glowing paint; colors sing! She grins, learning mistakes spark playful new ideas.",
+        "Emma paints a smiling masterpiece with birds, fox, and color map. Family applauds curiosity, shared learning, proud smiles."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "curiosity": "insatiable",
+            "family_value": "learning",
+            "likes": [
+              "drawing",
+              "puzzles",
+              "asking questions"
+            ],
+            "personality": [
+              "playful",
+              "brave",
+              "kind"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "The Mysterious Smile",
+            "summary": "Emma finds a tiny smiling portrait that winks and whispers clues about a hidden adventure."
+          },
+          {
+            "title": "The Whispering Paintbrush",
+            "summary": "A paintbrush tickles Emma's nose and paints doors to secret rooms full of giggling colors."
+          },
+          {
+            "title": "Leonardo's Little Locket",
+            "summary": "Emma meets a tiny mechanical bird who drops a locket map leading to Mona's secret."
+          },
+          {
+            "title": "The Smile That Puzzles",
+            "summary": "Puzzles pop out of paintings; Emma solves riddles with laughter and a dash of chalk."
+          },
+          {
+            "title": "The Flying Gallery",
+            "summary": "Art frames lift like balloons; Emma rides the gallery and learns history through silly scenes."
+          },
+          {
+            "title": "The Secret Shared Smile",
+            "summary": "Emma returns home; she shares Mona's smile and a new love for asking beautiful questions."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma, six, finds a tiny smiling portrait that winks and whispers clues about a hidden adventure.",
+        "A paintbrush tickles Emma's nose and paints doors to secret rooms full of giggling colors.",
+        "A tiny mechanical bird drops a locket map; curious Emma bravely follows Mona's whispered secret.",
+        "Puzzles pop from paintings; Emma asks questions, solves riddles with laughter, chalk, and kind cleverness.",
+        "Frames lift like balloons; Emma rides the gallery, learning history through silly scenes and whispered smiles.",
+        "Emma returns home, sharing Mona's smile; her family learns with her as she asks beautiful questions."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    },
+    {
+      "child_name": "Emma",
+      "painting": "Leonardo da Vinci's Mona Lisa",
+      "outline": {
+        "hero": {
+          "name": "Emma",
+          "traits": {
+            "age": 6,
+            "family_value": "learning",
+            "personality": [
+              "curious",
+              "playful",
+              "brave",
+              "sketchbook-lover"
+            ]
+          }
+        },
+        "chapters": [
+          {
+            "title": "The Smile in the Window",
+            "summary": "Emma spots a mysterious smiling portrait that winks back, sparking a curious quest."
+          },
+          {
+            "title": "The Giggle Paintbox",
+            "summary": "A paintbox giggles and splats colors, teaching Emma about mixing and surprising new shades."
+          },
+          {
+            "title": "Leonardo's Little Gadgets",
+            "summary": "Emma discovers tiny whirring inventions that animate sketches, including a tiny mechanical bird."
+          },
+          {
+            "title": "The Puzzle of Smiles",
+            "summary": "A riddle from the portrait sends Emma solving clues around the house with laughter."
+          },
+          {
+            "title": "Gallery Night Surprise",
+            "summary": "Emma brings her painted friend to gallery night \u2014 the portrait giggles and the room dances."
+          },
+          {
+            "title": "A Smile Shared",
+            "summary": "Emma learns curiosity and learning create smiles that travel from painting to family, forever."
+          }
+        ]
+      },
+      "chapters": [
+        "Emma, six, sketchbook hugged, sees a smiling portrait wink in the window; her curiosity flutters into a brave quest.",
+        "A paintbox giggles, splats burnt sienna and ochre; Emma laughs, mixes new colors, learning surprise and bravery.",
+        "Tiny whirring gadgets whirl from Leonardo's box; Emma's sketches wobble awake, a tiny mechanical bird chirps.",
+        "The portrait's riddle paints smile-shaped clues; Emma bravely follows giggling hints, learning puzzle pieces fit kindness.",
+        "At gallery night Emma displays her painted friend; the portrait giggles, shadows sway, everyone laughs and learns.",
+        "Emma hugs her sketchbook; curiosity and learning send the smile home, sharing warmth across family and forever."
+      ],
+      "images": [
+        "output\\images\\emma\\scene_01.png",
+        "output\\images\\emma\\scene_02.png",
+        "output\\images\\emma\\scene_03.png",
+        "output\\images\\emma\\scene_04.png",
+        "output\\images\\emma\\scene_05.png",
+        "output\\images\\emma\\scene_06.png"
+      ],
+      "pdf": "output\\book_Emma.pdf"
+    }
+  ]
+}

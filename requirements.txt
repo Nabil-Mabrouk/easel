@@ -1,0 +1,6 @@
+rich
+reportlab
+pillow
+openai
+python-dotenv
+fpdf

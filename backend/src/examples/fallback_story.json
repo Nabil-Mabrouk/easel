@@ -1,0 +1,88 @@
+{
+  "title": "Sophie’s Starry Night Adventure",
+  "age_level": 6,
+  "core_value": "being brave",
+  "painting": {
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "analysis": {
+      "colors": ["blue", "yellow", "black"],
+      "mood": "dreamlike",
+      "characters_detected": ["stars", "moon"],
+      "landscape_elements": ["sky", "village", "cypress tree"]
+    }
+  },
+  "hero": {
+    "name": "Sophie",
+    "description": "A curious little girl with bright eyes and curly hair.",
+    "base_image_prompt": "Young girl, curly hair, cheerful expression, cartoon style"
+  },
+  "family": [
+    {"name": "Alice", "role": "mother"},
+    {"name": "Bob", "role": "father"}
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "One evening, Sophie gazed at the swirling sky above her village, wondering what secrets it held.",
+      "art_direction": "Sophie standing by her window, looking up at the swirling stars.",
+      "illustration": {"base_image_used": true, "image_path": "examples/illustrations/page_1.png"}
+    },
+    {
+      "page_number": 2,
+      "text": "The stars shimmered brighter than ever before, as if whispering for her to join their dance.",
+      "art_direction": "Glowing stars forming patterns that invite Sophie into the sky.",
+      "illustration": {"base_image_used": false, "image_path": "examples/illustrations/page_2.png"}
+    },
+    {
+      "page_number": 3,
+      "text": "With a deep breath, Sophie felt her feet lift off the ground, floating gently into the starry night.",
+      "art_direction": "Sophie floating upward from her window into the painted sky.",
+      "illustration": {"base_image_used": true, "image_path": "examples/illustrations/page_3.png"}
+    },
+    {
+      "page_number": 4,
+      "text": "She soared past the crescent moon, who greeted her with a warm silver smile.",
+      "art_direction": "Sophie flying near a crescent moon smiling kindly at her.",
+      "illustration": {"base_image_used": true, "image_path": "examples/illustrations/page_4.png"}
+    },
+    {
+      "page_number": 5,
+      "text": "Down below, the village rooftops twinkled like tiny lanterns, and Sophie felt both small and brave.",
+      "art_direction": "A view of the village rooftops glowing warmly as Sophie floats above.",
+      "illustration": {"base_image_used": false, "image_path": "examples/illustrations/page_5.png"}
+    },
+    {
+      "page_number": 6,
+      "text": "A tall cypress tree reached up toward her, whispering secrets of the night winds.",
+      "art_direction": "Sophie near the tall cypress tree, listening to its whispers.",
+      "illustration": {"base_image_used": true, "image_path": "examples/illustrations/page_6.png"}
+    },
+    {
+      "page_number": 7,
+      "text": "Stars swirled into shapes of her family—Alice and Bob—cheering her on to be courageous.",
+      "art_direction": "Stars forming constellations of her parents in the sky.",
+      "illustration": {"base_image_used": false, "image_path": "examples/illustrations/page_7.png"}
+    },
+    {
+      "page_number": 8,
+      "text": "Just as she felt nervous, Sophie remembered her parents’ love, filling her with courage.",
+      "art_direction": "Sophie smiling bravely while holding a glowing star in her hands.",
+      "illustration": {"base_image_used": true, "image_path": "examples/illustrations/page_8.png"}
+    },
+    {
+      "page_number": 9,
+      "text": "With a swirl of stardust, she glided safely back down, landing softly in her bed.",
+      "art_direction": "Sophie gently landing back in her cozy bed, moonlight glowing through the window.",
+      "illustration": {"base_image_used": true, "image_path": "examples/illustrations/page_9.png"}
+    },
+    {
+      "page_number": 10,
+      "text": "She closed her eyes, knowing that true bravery comes from the love that lights your way.",
+      "art_direction": "Sophie sleeping peacefully with stars glowing outside her window.",
+      "illustration": {"base_image_used": false, "image_path": "examples/illustrations/page_10.png"}
+    }
+  ],
+  "closing_note": "And so, Sophie learned that being brave means exploring the unknown, guided by the light of love."
+}

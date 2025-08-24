@@ -1,0 +1,24 @@
+# --- Web Framework ---
+# For building and running the API
+fastapi
+uvicorn[standard]
+
+# --- AI & HTTP Clients ---
+# For interacting with the AI models and other web services
+openai
+requests
+python-dotenv
+
+# --- Data Validation & Image Processing ---
+# For validating data structures and handling images
+pydantic
+Pillow
+
+# --- PDF Generation ---
+# For creating the final storybook PDF
+reportlab
+
+# --- Console UI & Utilities ---
+# For rich terminal outputs and retry logic
+rich
+tenacity

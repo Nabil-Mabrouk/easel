@@ -1,0 +1,13 @@
+python-dotenv
+openai
+requests
+pydantic
+Pillow
+reportlab
+rich
+tenacity
+fastapi
+uvicorn
+pydantic-settings
+httpx
+
